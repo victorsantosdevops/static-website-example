@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Rocketmat/Quiz/albert/.idea/albert.iml" filepath="$PROJECT_DIR$/../../Rocketmat/Quiz/albert/.idea/albert.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/static-website-example.iml" filepath="$PROJECT_DIR$/.idea/static-website-example.iml" />
     </modules>
   </component>
